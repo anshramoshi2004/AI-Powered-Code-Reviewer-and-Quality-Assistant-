@@ -111,7 +111,7 @@ docstring-generator diff
 
 ### Streamlit UI
 ```bash
-streamlit run ui_app.py
+streamlit run .\main_app.py
 ```
 Provides a dashboard to preview, accept, or reject AI suggestions.
 
